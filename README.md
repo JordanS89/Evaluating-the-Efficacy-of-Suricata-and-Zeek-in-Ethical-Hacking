@@ -49,19 +49,16 @@ Figure 6: Retrieved data from the DBMS. <br/>
 The passwords have been cracked for admin, gordonb, 1337, pablo,  and the table “users” have successfully been dumped into the terminal with the information gathered. 
 <br />
 <br />
-<br />
 Figure 7: Users showing online <br/>
 <img src="https://i.imgur.com/HSgeJEf.png" height="100%" width="100%" alt="Project Steps"/>
 <br />
 This image shows the users being online after inserting the <script> beef-shortened-url:3000<script>. The target machine successfully became one of the machines using the hooked browser which we then could input various attacks.
 <br />
 <br />
-<br />
 Figure 8: List of the potential commands we could execute <br/>
 <img src="https://i.imgur.com/2Klyvs3.png" height="100%" width="100%" alt="Project Steps"/>
 <br />
 We executed one of the commands which was the Man in the Browser command. This allowed us to intercept all the user's web traffic gaining any inputs they entered. The attack would stay until the user changed the URL address on the browser. From the results you see we were able to get the traffic and even a username and password that was entered from the other machine.
-<br />
 <br />
 <br />
 Figure 9:  <br/>
